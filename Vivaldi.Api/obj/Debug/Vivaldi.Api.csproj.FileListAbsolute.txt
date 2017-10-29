@@ -1,0 +1,5 @@
+D:\code\Vivaldi\Vivaldi.Api\bin\Debug\Vivaldi.Api.dll
+D:\code\Vivaldi\Vivaldi.Api\bin\Debug\Vivaldi.Api.pdb
+D:\code\Vivaldi\Vivaldi.Api\obj\Debug\Vivaldi.Api.csprojResolveAssemblyReference.cache
+D:\code\Vivaldi\Vivaldi.Api\obj\Debug\Vivaldi.Api.dll
+D:\code\Vivaldi\Vivaldi.Api\obj\Debug\Vivaldi.Api.pdb

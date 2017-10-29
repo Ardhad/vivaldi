@@ -1,0 +1,12 @@
+E:\code\Vivaldi\Vivaldi.Domain\bin\Debug\Vivaldi.Domain.dll
+E:\code\Vivaldi\Vivaldi.Domain\bin\Debug\Vivaldi.Domain.pdb
+E:\code\Vivaldi\Vivaldi.Domain\obj\Debug\Vivaldi.Domain.csprojResolveAssemblyReference.cache
+E:\code\Vivaldi\Vivaldi.Domain\obj\Debug\Vivaldi.Domain.dll
+E:\code\Vivaldi\Vivaldi.Domain\obj\Debug\Vivaldi.Domain.pdb
+D:\code\Vivaldi\Vivaldi.Domain\bin\Debug\Vivaldi.Domain.dll
+D:\code\Vivaldi\Vivaldi.Domain\bin\Debug\Vivaldi.Domain.pdb
+D:\code\Vivaldi\Vivaldi.Domain\obj\Debug\Vivaldi.Domain.dll
+D:\code\Vivaldi\Vivaldi.Domain\obj\Debug\Vivaldi.Domain.pdb
+D:\code\Vivaldi\Vivaldi.Domain\bin\Debug\Vivaldi.Api.dll
+D:\code\Vivaldi\Vivaldi.Domain\bin\Debug\Vivaldi.Api.pdb
+D:\code\Vivaldi\Vivaldi.Domain\obj\Debug\Vivaldi.Domain.csprojResolveAssemblyReference.cache
